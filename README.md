@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Malik_ByteBuilderWith a dynamic blend of strategic insight and technological acumen, I drive transformative change by integrating Blockchain, AI, and Cybersecurity into business strategies.
+ Hi, I’m @Malik_ByteBuilderWith a dynamic blend of strategic insight and technological acumen, I drive transformative change by integrating Blockchain, AI, and Cybersecurity into business strategies.
 - My approach combines data-driven decision-making with a commitment to empowerment and continuous learning.
 - Currently i am Student of Blockchain Development, Smart Contracts, Decentralized Applications (dApps), Cryptography, Cybersecurity
 
